@@ -7,3 +7,4 @@ ini semisal goldmerchant update 2
 ini semisal goldmerchant update 3
 ini semisal goldmerchant update 4
 ini semisal goldmerchant update 5
+ini semisal goldmerchant update 6
