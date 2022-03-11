@@ -1,2 +1,4 @@
 test2
 initest2
+
+ini semisal goldmerchant update
